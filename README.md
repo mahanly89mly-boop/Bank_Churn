@@ -109,12 +109,9 @@ pip install -r requirements.txt
 
 **3. Train the model**
 ```bash
-python src/train.py
-```
+Bank_Prediction_Churn.ipynb```
 
-**4. Run the dashboard**
-```bash
-streamlit run app/streamlit_app.py
+
 ```
 
 ---
@@ -125,7 +122,6 @@ streamlit run app/streamlit_app.py
 pandas
 numpy
 scikit-learn
-Random Forest 
 matplotlib
 
 
