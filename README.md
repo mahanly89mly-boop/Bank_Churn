@@ -70,7 +70,7 @@ Preprocessing (Encoding → Scaling → Train/Test Split → SMOTE)
     ↓
 Model Training (Random Forest)
     ↓
-Evaluation (ROC-AUC · F1 · Confusion Matrix)
+Evaluation (ROC-AUC · Recall · Accuracy , Precision)
     ↓
 
 ```
