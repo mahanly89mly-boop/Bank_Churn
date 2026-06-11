@@ -30,8 +30,7 @@ proactive retention actions.
 | `EstimatedSalary` | Estimated annual salary | Numeric |
 | `NumOfProducts` | Number of bank products held | Numeric |
 | `IsActiveMember` | Active customer status | Binary (0/1) |
-| `Gender` | Gender | Categorical |
-| `Geography` | Country of residence | Categorical |
+| `Gender` | Gender | Binary (0/1) (Male=1 , Female=0) |
 | `Exited` | Churned? **(Target)** | Binary (0/1) |
 
 - **Records:*. 50 customers  
